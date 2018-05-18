@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A novelty cowboy picture stand."
+      "Eng": "A novelty cowboy picture stand.",
+      "Rus": ""
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A novelty picture stand? Let me put my face behind it, and someone take my picture!"
+      "Eng": "A novelty picture stand? Let me put my face behind it, and someone take my picture!",
+      "Rus": ""
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Do I stand with my face in the hole to create a picture? How humorous!"
+      "Eng": "Do I stand with my face in the hole to create a picture? How humorous!",
+      "Rus": ""
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran doesssn't get it."
+      "Eng": "Floran doesssn't get it.",
+      "Rus": "Флоран не понимает"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "If the intent of this prop is to create an effective disguise, then it is a failure."
+      "Eng": "If the intent of this prop is to create an effective disguise, then it is a failure.",
+      "Rus": "Если цель этой опоры - маскировка, то только неудачная."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Picture Stand"
+      "Eng": "Picture Stand",
+      "Rus": ""
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This isn't very amusing."
+      "Eng": "This isn't very amusing.",
+      "Rus": "Не очень то и забавно."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What is the purpose of this?"
+      "Eng": "What is the purpose of this?",
+      "Rus": "Для чего это нужно?"
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yee-haw! If I get behind this, I can look like an ol' gunslinger."
+      "Eng": "Yee-haw! If I get behind this, I can look like an ol' gunslinger.",
+      "Rus": "Ии-хаа! Если встать сюда, то я буду выглядить как ковбой."
     }
   }
 ]
